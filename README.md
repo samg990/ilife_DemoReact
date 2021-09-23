@@ -19,3 +19,17 @@
   * Data is shown in its proper place
 
 ![](dataupdate.gif)
+
+### API data 
+ * Showing calls are being made properly and accepting correct values
+![](api.gif)
+
+## Java Spring Boot API
+ * Rest Repositories
+ * JPA
+ * H2
+ * Heroku Link -> http://warm-journey-80079.herokuapp.com/dash
+
+A quick api made with Spring Boot. Basic structured json. Ugly looking but for the purposes of the demo I needed something up and running. Deployed on Heroku.
+React page is also ugly but again for the purposes of the demo functionality has precedent over styling. 
+
