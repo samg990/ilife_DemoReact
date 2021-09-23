@@ -49,7 +49,7 @@ function Menu() {
 		<Fragment>
 			<Container id="container">
 				<div>
-					<h4> Welcome, Sam</h4>
+					<h4> Welcome, Sam!</h4>
 				</div>
 				<div>
 					<h5> Agent Id: {data.agentid}</h5>
