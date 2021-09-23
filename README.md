@@ -1,4 +1,4 @@
-# ilife_DemoReact
+#### ilife_DemoReact
 
 # React 
 
@@ -29,6 +29,7 @@
  * JPA
  * H2
  * Heroku Link -> http://warm-journey-80079.herokuapp.com/dash
+ * GitHub Repo -> https://github.com/samg990/ilife_demoAPI
 
 A quick api made with Spring Boot. Basic structured json. Ugly looking but for the purposes of the demo I needed something up and running. Deployed on Heroku.
 React page is also ugly but again for the purposes of the demo functionality has precedent over styling. 
